@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: PlayerHoverDisplay
+## Notes: Displays level, name, and Target-of-Target on hover. /phd for options.
+## Author: Peachoo @ Nordanaar - Turtle WoW
+## SavedVariables: PlayerHoverDisplaySettings
+PlayerHoverDisplay.lua
