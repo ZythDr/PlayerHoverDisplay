@@ -75,7 +75,7 @@ local function GetLevelColor(targetLevel, isHostile)
     end
 
     local levelDiff = targetLevel - playerLevel
-    if levelDiff >= 6 then
+    if levelDiff >= 5 then
         return levelColors["RED"], targetLevel
     elseif levelDiff >= 3 then
         return levelColors["ORANGE"], targetLevel
